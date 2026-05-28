@@ -206,7 +206,8 @@ Pre-built datasets are available in `/sample_data`:
 
 ---
 
-## 👤 Author
+## 👤 Author 
+Shikha Sahu
 
 Built as part of the **BreatheESG Tech Intern Assignment**.
 
