@@ -1,0 +1,31 @@
+transaction_id,employee_id,travel_date,expense_type,vendor_name,origin_code,destination_code,amount,currency,trip_purpose,booking_class,nights_stayed
+TXN-101,EMP-045,2026-04-01,AIRFARE,Air India,DEL,BOM,8500.00,INR,Sales Meeting,Economy,
+TXN-102,EMP-045,2026-04-01,HOTEL,Taj Lands End,BOM,,32000.00,INR,Sales Meeting,,3
+TXN-103,EMP-045,2026-04-04,AIRFARE,Air India,BOM,DEL,8500.00,INR,Sales Meeting,Economy,
+TXN-104,EMP-088,2026-04-02,AIRFARE,IndiGo,BLR,DEL,6200.00,INR,Technical Audit,Economy,
+TXN-105,EMP-088,2026-04-02,HOTEL,Oberoi New Delhi,DEL,,24000.00,INR,Technical Audit,,2
+TXN-106,EMP-088,2026-04-03,CAR,Ola Cabs,DEL,DEL,45.00,INR,Technical Audit,,
+TXN-107,EMP-088,2026-04-04,AIRFARE,IndiGo,DEL,BLR,6200.00,INR,Technical Audit,Economy,
+TXN-108,EMP-121,2026-04-05,AIRFARE,Emirates,BOM,DXB,28000.00,INR,Client Onboarding,Business,
+TXN-109,EMP-121,2026-04-05,HOTEL,Hilton Dubai,DXB,,750.00,AED,Client Onboarding,,4
+TXN-110,EMP-121,2026-04-09,AIRFARE,Emirates,DXB,BOM,28000.00,INR,Client Onboarding,Business,
+TXN-111,EMP-204,2026-04-10,AIRFARE,Vistara,DEL,BLR,7100.00,INR,Executive Strategy,Premium Economy,
+TXN-112,EMP-204,2026-04-10,HOTEL,ITC Gardenia,BLR,,45000.00,INR,Executive Strategy,,4
+TXN-113,EMP-204,2026-04-12,CAR,Uber Enterprise,BLR,BLR,80.00,INR,Executive Strategy,,
+TXN-114,EMP-204,2026-04-14,AIRFARE,Vistara,BLR,DEL,7100.00,INR,Executive Strategy,Premium Economy,
+TXN-115,EMP-012,2026-04-15,AIRFARE,Singapore Airlines,MAA,SIN,35000.00,INR,Investor Pitch,Business,
+TXN-116,EMP-012,2026-04-15,HOTEL,Marina Bay Sands,SIN,,1200.00,SGD,Investor Pitch,,3
+TXN-117,EMP-012,2026-04-18,AIRFARE,Singapore Airlines,SIN,MAA,35000.00,INR,Investor Pitch,Business,
+TXN-118,EMP-155,2026-04-20,RAIL,Indian Railways,DEL,CCU,2200.00,INR,Branch Inspection,AC First Class,
+TXN-119,EMP-155,2026-04-21,HOTEL,The Lalit Kolkata,CCU,,18000.00,INR,Branch Inspection,,3
+TXN-120,EMP-155,2026-04-24,RAIL,Indian Railways,CCU,DEL,2200.00,INR,Branch Inspection,AC First Class,
+TXN-121,EMP-302,2026-04-25,AIRFARE,Air India,COK,DEL,9200.00,INR,Supplier Review,Economy,
+TXN-122,EMP-302,2026-04-25,HOTEL,Le Meridien Delhi,DEL,,15000.00,INR,Supplier Review,,2
+TXN-123,EMP-302,2026-04-27,AIRFARE,Air India,DEL,COK,9200.00,INR,Supplier Review,Economy,
+TXN-124,EMP-007,2026-05-01,AIRFARE,British Airways,BOM,LHR,65000.00,INR,Partner Summit,Business,
+TXN-125,EMP-007,2026-05-01,HOTEL,The Ritz London,LHR,,900.00,GBP,Partner Summit,,5
+TXN-126,EMP-007,2026-05-06,AIRFARE,British Airways,LHR,BOM,65000.00,INR,Partner Summit,Business,
+TXN-127,EMP-144,2026-05-10,AIRFARE,IndiGo,HYD,AMD,5100.00,INR,Field Operations,Economy,
+TXN-128,EMP-144,2026-05-10,HOTEL,Hyatt Regency Ahmedabad,AMD,,12000.00,INR,Field Operations,,2
+TXN-129,EMP-144,2026-05-11,CAR,Local Rental,AMD,AMD,120.00,INR,Field Operations,,
+TXN-130,EMP-144,2026-05-12,AIRFARE,IndiGo,AMD,HYD,5100.00,INR,Field Operations,Economy,
