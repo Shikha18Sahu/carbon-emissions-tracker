@@ -1,8 +1,8 @@
-# 🌿 Carbon Pulse — BreatheESG Auditor Workspace
+# 🌿 Carbon Pulse — ESG Auditor Workspace
 
 > **Enterprise emissions ingestion, normalization, and audit review platform**
-> Built for the BreatheESG Tech Intern Assignment · Django REST + React · Vite · TailwindCSS
-
+> Built with · Django REST + React · Vite · TailwindCSS
+> 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge)](https://your-deployed-url.vercel.app)
 [![Backend](https://img.shields.io/badge/Backend-Railway-blueviolet?style=for-the-badge)](https://your-backend.railway.app)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
@@ -60,8 +60,8 @@ BREATHEE/
 
 | Surface | URL |
 |---|---|
-| Frontend (Vercel) | `https://your-app.vercel.app` |
-| Backend API (Railway) | `https://your-api.railway.app` |
+| Frontend (Vercel) | `[https://your-app.vercel.app](https://your-frontend.vercel.app)` |
+| Backend API (Render) | `[https://your-api.railway.app](https://carbon-emissions-tracker-2.onrender.com)` |
 
 **Demo credentials:**
 ```
