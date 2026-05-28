@@ -43,7 +43,7 @@ export default function Login({ onLoginSuccess, addToast }) {
             <Leaf className="w-8 h-8 text-carbon-accent" />
           </div>
           <h1 className="text-3xl font-bold font-display text-white tracking-wide">Carbon Pulse</h1>
-          <p className="text-gray-400 text-sm mt-1">breatheesg Emissions Review Portal</p>
+          <p className="text-gray-400 text-sm mt-1">Carbon Emissions Review Portal</p>
         </div>
 
         {error && (
