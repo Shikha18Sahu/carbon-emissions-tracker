@@ -1,1 +1,1 @@
-web: gunicorn breatheesg_back.wsgi
+web: gunicorn breatheesg_backend.wsgi
