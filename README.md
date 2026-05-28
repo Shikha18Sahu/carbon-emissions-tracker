@@ -254,7 +254,7 @@ npm run build
 
 Vercel environment variable:
 ```
-VITE_API_URL=https://your-backend.railway.app
+VITE_API_URL=https://carbon-emissions-tracker-2.onrender.com
 ```
 
 ---
