@@ -91,7 +91,6 @@ carbon-emissions-tracker/
 |---|---|
 | Frontend (Vercel) | [https://your-frontend.vercel.app](https://carbon-emissions-tracker-ten.vercel.app/) |
 | Backend API (Render) | [https://carbon-emissions-tracker-2.onrender.com](https://carbon-emissions-tracker-2.onrender.com) |
-
 ---
 
 ## 🛠️ Local Development
