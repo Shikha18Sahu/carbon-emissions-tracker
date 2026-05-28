@@ -93,6 +93,17 @@ carbon-emissions-tracker/
 | Backend API (Render) | [https://carbon-emissions-tracker-2.onrender.com](https://carbon-emissions-tracker-2.onrender.com) |
 ---
 
+**Demo Credentials:**
+```
+Username: admin
+Password: password123
+```
+ 
+Two tenants are pre-loaded for review:
+- `BREATHEESG MANUFACTURING`
+- `CARBONLEDGER MANUFACTURING`
+---
+
 ## 🛠️ Local Development
 
 ### Backend Setup
