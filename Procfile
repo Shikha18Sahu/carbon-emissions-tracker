@@ -1,1 +1,1 @@
-web: gunicorn breatheesg_backend.wsgi
+web: gunicorn breatheesg_backend.wsgi --chdir backend
